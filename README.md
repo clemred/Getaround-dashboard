@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Getaround-dashboard
 
 A simple Streamlit app template for you to modify!
 
