@@ -22,7 +22,7 @@ st.write('---')
 ### ----------------------------------------------------
 
 
-df_raw = pd.read_excel("../data/get_around_delay_analysis.xlsx")
+df_raw = pd.read_excel("./data/get_around_delay_analysis.xlsx")
 
 df = df_raw
 df = df.drop('car_id', axis=1)
